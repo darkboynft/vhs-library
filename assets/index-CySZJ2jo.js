@@ -11316,7 +11316,7 @@ const Td = [{
         director: "Ridley Scott",
         year: 1982,
         cast: ["Harrison Ford", "Rutger Hauer", "Sean Young"],
-        poster: "/posters/blade_runner__montaje_final_.jpg",
+        poster: "./posters/blade_runner__montaje_final_.jpg",
     }, {
 		        title: "Sweeney Todd: El barbero diabólico de la calle Fleet",
         category: "Musical",
@@ -11324,7 +11324,7 @@ const Td = [{
         director: "Tim Burton",
         year: 2007,
         cast: ["Johnny Depp", "Helena Bonham Carter", "Alan Rickman"],
-        poster: "/posters/sweeney_toddsweeney_todd.jpg",
+        poster: "./posters/sweeney_toddsweeney_todd.jpg",
     }, {
 				        title: "Tras el corazón verde",
         category: "Aventuras",
@@ -11332,7 +11332,7 @@ const Td = [{
         director: "Robert Zemeckis",
         year: 1984,
         cast: ["Michael Douglas", "Kathleen Turner", "Danny DeVito"],
-        poster: "/posters/tras_el_corazón_verde.jpg",
+        poster: "./posters/tras_el_corazón_verde.jpg",
     }, {
 						        title: "La joya del Nilo",
         category: "Aventuras",
@@ -11340,7 +11340,7 @@ const Td = [{
         director: "Robert Zemeckis",
         year: 1985,
         cast: ["Michael Douglas", "Kathleen Turner", "Danny DeVito"],
-        poster: "/posters/la_joya_del_nilo.jpg",
+        poster: "./posters/la_joya_del_nilo.jpg",
     }, {
         title: "Basic",
         category: "Thriller",
@@ -11348,7 +11348,7 @@ const Td = [{
         director: "John McTiernan",
         year: 2003,
         cast: ["John Travolta", "Samuel L. Jackson", "Connie Nielsen"],
-        poster: "/posters/basic.jpg",
+        poster: "./posters/basic.jpg",
     }, {
         title: "Los chicos están bien",
         category: "Comedia",
@@ -11356,7 +11356,7 @@ const Td = [{
         director: "Lisa Cholodenko",
         year: 2010,
         cast: ["Annette Bening", "Julianne Moore", "Mia Wasikowska"],
-        poster: "/posters/los_chicos_están_bien.jpg",
+        poster: "./posters/los_chicos_están_bien.jpg",
     }, {
         title: "Asesinos de élite",
         category: "Thriller",
@@ -11364,7 +11364,7 @@ const Td = [{
         director: "Gary McKendry",
         year: 2011,
         cast: ["Jason Statham", "Clive Owen", "Robert De Niro"],
-        poster: "/posters/asesinos_de_élite.jpg",
+        poster: "./posters/asesinos_de_élite.jpg",
     }, {
         title: "Independence Day",
         category: "Ciencia Ficción",
