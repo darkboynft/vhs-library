@@ -1,0 +1,1808 @@
+[
+    {
+        "title": "Batman",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Tim Burton",
+        "year": 1989
+    },
+    {
+        "title": "Batman Vuelve",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Tim Burton",
+        "year": 1992
+    },
+    {
+        "title": "Batman Forever",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Joel Schumacher",
+        "year": 1995
+    },
+    {
+        "title": "Batman & Robin",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Joel Schumacher",
+        "year": 1997
+    },
+    {
+        "title": "Batman Begins",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Christopher Nolan",
+        "year": 2005
+    },
+    {
+        "title": "El Caballero Oscuro",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Christopher Nolan",
+        "year": 2008
+    },
+    {
+        "title": "Daredevil",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Acción",
+        "director": "Mark Steven Johnson",
+        "year": 2003
+    },
+    {
+        "title": "V de Vendetta",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Thriller",
+        "director": "James McTeigue",
+        "year": 2005
+    },
+    {
+        "title": "Hellboy",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Fantasía",
+        "director": "Guillermo del Toro",
+        "year": 2004
+    },
+    {
+        "title": "Hellboy II: El Ejército Dorado",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Fantasía",
+        "director": "Guillermo del Toro",
+        "year": 2008
+    },
+    {
+        "title": "La Liga de los Hombres Extraordinarios",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Aventura",
+        "director": "Stephen Norrington",
+        "year": 2003
+    },
+    {
+        "title": "300",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Bélico",
+        "director": "Zack Snyder",
+        "year": 2006
+    },
+    {
+        "title": "Sin City: Ciudad del Pecado",
+        "category": "Cómic y Vigilantes",
+        "subCategory": "Crimen",
+        "director": "Robert Rodriguez & Frank Miller",
+        "year": 2005
+    },
+    {
+        "title": "Harry el Sucio",
+        "category": "Acción",
+        "subCategory": "Policial",
+        "director": "Don Siegel",
+        "year": 1971
+    },
+    {
+        "title": "Harry el Fuerte",
+        "category": "Acción",
+        "subCategory": "Policial",
+        "director": "Ted Post",
+        "year": 1973
+    },
+    {
+        "title": "Harry el Ejecutor",
+        "category": "Acción",
+        "subCategory": "Policial",
+        "director": "James Fargo",
+        "year": 1976
+    },
+    {
+        "title": "Rocky",
+        "category": "Acción",
+        "subCategory": "Drama Deportivo",
+        "director": "John G. Avildsen",
+        "year": 1976
+    },
+    {
+        "title": "Rocky II",
+        "category": "Acción",
+        "subCategory": "Drama Deportivo",
+        "director": "Sylvester Stallone",
+        "year": 1979
+    },
+    {
+        "title": "Rocky III",
+        "category": "Acción",
+        "subCategory": "Drama Deportivo",
+        "director": "Sylvester Stallone",
+        "year": 1982
+    },
+    {
+        "title": "Rocky IV",
+        "category": "Acción",
+        "subCategory": "Drama Deportivo",
+        "director": "Sylvester Stallone",
+        "year": 1985
+    },
+    {
+        "title": "Rambo",
+        "category": "Acción",
+        "subCategory": "Bélico",
+        "director": "Ted Kotcheff",
+        "year": 1982
+    },
+    {
+        "title": "Commando (Montaje del director)",
+        "category": "Acción",
+        "subCategory": "Thriller",
+        "director": "Mark L. Lester",
+        "year": 1985
+    },
+    {
+        "title": "La Jungla 2: Alerta Roja",
+        "category": "Acción",
+        "subCategory": "Thriller",
+        "director": "Renny Harlin",
+        "year": 1990
+    },
+    {
+        "title": "La Jungla 4.0",
+        "category": "Acción",
+        "subCategory": "Thriller",
+        "director": "Len Wiseman",
+        "year": 2007
+    },
+    {
+        "title": "Mad Max",
+        "category": "Acción",
+        "subCategory": "Ciencia Ficción",
+        "director": "George Miller",
+        "year": 1979
+    },
+    {
+        "title": "Mad Max: Más allá de la cúpula del trueno",
+        "category": "Acción",
+        "subCategory": "Ciencia Ficción",
+        "director": "George Miller",
+        "year": 1985
+    },
+    {
+        "title": "Top Gun: Ídolos del Aire",
+        "category": "Acción",
+        "subCategory": "Drama",
+        "director": "Tony Scott",
+        "year": 1986
+    },
+    {
+        "title": "Oficial y Caballero",
+        "category": "Drama",
+        "subCategory": "Romance",
+        "director": "Taylor Hackford",
+        "year": 1982
+    },
+    {
+        "title": "Le llaman Bodhi",
+        "category": "Acción",
+        "subCategory": "Crimen",
+        "director": "Kathryn Bigelow",
+        "year": 1991
+    },
+    {
+        "title": "El Fugitivo",
+        "category": "Acción",
+        "subCategory": "Thriller",
+        "director": "Andrew Davis",
+        "year": 1993
+    },
+    {
+        "title": "Terminator",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "James Cameron",
+        "year": 1984
+    },
+    {
+        "title": "Terminator 2: El Juicio Final",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "James Cameron",
+        "year": 1991
+    },
+    {
+        "title": "Desafío Total",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Paul Verhoeven",
+        "year": 1990
+    },
+    {
+        "title": "Depredador",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "John McTiernan",
+        "year": 1987
+    },
+    {
+        "title": "Resident Evil",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Paul W.S. Anderson",
+        "year": 2002
+    },
+    {
+        "title": "Resident Evil 2: Apocalipsis",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Alexander Witt",
+        "year": 2004
+    },
+    {
+        "title": "Resident Evil: Extinción",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Russell Mulcahy",
+        "year": 2007
+    },
+    {
+        "title": "Pitch Black",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "David Twohy",
+        "year": 2000
+    },
+    {
+        "title": "Las Crónicas de Riddick",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "David Twohy",
+        "year": 2004
+    },
+    {
+        "title": "Alien vs. Predator",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Paul W.S. Anderson",
+        "year": 2004
+    },
+    {
+        "title": "Yo Robot",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Alex Proyas",
+        "year": 2004
+    },
+    {
+        "title": "Matrix",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Lana & Lilly Wachowski",
+        "year": 1999
+    },
+    {
+        "title": "La Isla",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Michael Bay",
+        "year": 2005
+    },
+    {
+        "title": "Blade Runner (Montaje Final)",
+        "category": "Ciencia Ficción",
+        "subCategory": "Thriller",
+        "director": "Ridley Scott",
+        "year": 1982
+    },
+    {
+        "title": "Independence Day",
+        "category": "Ciencia Ficción",
+        "subCategory": "Catástrofe",
+        "director": "Roland Emmerich",
+        "year": 1996
+    },
+    {
+        "title": "Deep Impact",
+        "category": "Ciencia Ficción",
+        "subCategory": "Catástrofe",
+        "director": "Mimi Leder",
+        "year": 1998
+    },
+    {
+        "title": "El Día de Mañana",
+        "category": "Ciencia Ficción",
+        "subCategory": "Catástrofe",
+        "director": "Roland Emmerich",
+        "year": 2004
+    },
+    {
+        "title": "Regreso al Futuro",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Robert Zemeckis",
+        "year": 1985
+    },
+    {
+        "title": "Regreso al Futuro II",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Robert Zemeckis",
+        "year": 1989
+    },
+    {
+        "title": "Regreso al Futuro III",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Robert Zemeckis",
+        "year": 1990
+    },
+    {
+        "title": "Men in Black",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Barry Sonnenfeld",
+        "year": 1997
+    },
+    {
+        "title": "Men in Black II",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Barry Sonnenfeld",
+        "year": 2002
+    },
+    {
+        "title": "Wild Wild West",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Barry Sonnenfeld",
+        "year": 1999
+    },
+    {
+        "title": "Los Cazafantasmas",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Ivan Reitman",
+        "year": 1984
+    },
+    {
+        "title": "Gremlins",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Joe Dante",
+        "year": 1984
+    },
+    {
+        "title": "Los Goonies",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Richard Donner",
+        "year": 1985
+    },
+    {
+        "title": "Super 8",
+        "category": "Ciencia Ficción",
+        "subCategory": "Misterio",
+        "director": "J.J. Abrams",
+        "year": 2011
+    },
+    {
+        "title": "La Guerra de los Mundos",
+        "category": "Ciencia Ficción",
+        "subCategory": "Acción",
+        "director": "Steven Spielberg",
+        "year": 2005
+    },
+    {
+        "title": "Jurassic Park III",
+        "category": "Ciencia Ficción",
+        "subCategory": "Aventura",
+        "director": "Joe Johnston",
+        "year": 2001
+    },
+    {
+        "title": "The Mummy (La Momia)",
+        "category": "Aventura Histórica",
+        "subCategory": "Acción",
+        "director": "Stephen Sommers",
+        "year": 1999
+    },
+    {
+        "title": "The Mummy Returns",
+        "category": "Aventura Histórica",
+        "subCategory": "Acción",
+        "director": "Stephen Sommers",
+        "year": 2001
+    },
+    {
+        "title": "The Scorpion King",
+        "category": "Aventura Histórica",
+        "subCategory": "Acción",
+        "director": "Chuck Russell",
+        "year": 2002
+    },
+    {
+        "title": "Gladiator",
+        "category": "Aventura Histórica",
+        "subCategory": "Drama",
+        "director": "Ridley Scott",
+        "year": 2000
+    },
+    {
+        "title": "Braveheart",
+        "category": "Aventura Histórica",
+        "subCategory": "Bélico",
+        "director": "Mel Gibson",
+        "year": 1995
+    },
+    {
+        "title": "El Último Samurái",
+        "category": "Aventura Histórica",
+        "subCategory": "Bélico",
+        "director": "Edward Zwick",
+        "year": 2003
+    },
+    {
+        "title": "Master & Commander",
+        "category": "Aventura Histórica",
+        "subCategory": "Bélico",
+        "director": "Peter Weir",
+        "year": 2003
+    },
+    {
+        "title": "La máscara del zorro",
+        "category": "Aventura Histórica",
+        "subCategory": "Acción",
+        "director": "Martin Campbell",
+        "year": 1998
+    },
+    {
+        "title": "Apocalypto",
+        "category": "Aventura Histórica",
+        "subCategory": "Bélico",
+        "director": "Mel Gibson",
+        "year": 2006
+    },
+    {
+        "title": "Bailando con Lobos",
+        "category": "Western",
+        "subCategory": "Aventura",
+        "director": "Kevin Costner",
+        "year": 1990
+    },
+    {
+        "title": "Sin Perdón",
+        "category": "Western",
+        "subCategory": "Drama",
+        "director": "Clint Eastwood",
+        "year": 1992
+    },
+    {
+        "title": "Tombstone",
+        "category": "Western",
+        "subCategory": "Acción",
+        "director": "George P. Cosmatos",
+        "year": 1993
+    },
+    {
+        "title": "El Perdón (The Claim)",
+        "category": "Western",
+        "subCategory": "Drama",
+        "director": "Michael Winterbottom",
+        "year": 2000
+    },
+    {
+        "title": "Pulp Fiction",
+        "category": "Thriller y Crimen",
+        "subCategory": "Culto",
+        "director": "Quentin Tarantino",
+        "year": 1994
+    },
+    {
+        "title": "Malditos Bastardos",
+        "category": "Thriller y Crimen",
+        "subCategory": "Bélico",
+        "director": "Quentin Tarantino",
+        "year": 2009
+    },
+    {
+        "title": "Kill Bill: Volumen 1",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "Quentin Tarantino",
+        "year": 2003
+    },
+    {
+        "title": "Kill Bill: Volumen 2",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "Quentin Tarantino",
+        "year": 2004
+    },
+    {
+        "title": "Snatch: cerdos y diamantes",
+        "category": "Thriller y Crimen",
+        "subCategory": "Comedia",
+        "director": "Guy Ritchie",
+        "year": 2000
+    },
+    {
+        "title": "Ocean's Eleven",
+        "category": "Thriller y Crimen",
+        "subCategory": "Comedia",
+        "director": "Steven Soderbergh",
+        "year": 2001
+    },
+    {
+        "title": "The Italian Job",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "F. Gary Gray",
+        "year": 2003
+    },
+    {
+        "title": "El Señor de la Guerra",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Andrew Niccol",
+        "year": 2005
+    },
+    {
+        "title": "Diamante de Sangre",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Edward Zwick",
+        "year": 2006
+    },
+    {
+        "title": "Shaft: The Return",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "John Singleton",
+        "year": 2000
+    },
+    {
+        "title": "Red de Mentiras",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Ridley Scott",
+        "year": 2008
+    },
+    {
+        "title": "El Caso Bourne",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Doug Liman",
+        "year": 2002
+    },
+    {
+        "title": "El Mito de Bourne",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Paul Greengrass",
+        "year": 2004
+    },
+    {
+        "title": "El Ultimátum de Bourne",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Paul Greengrass",
+        "year": 2007
+    },
+    {
+        "title": "Casino Royale 007",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Martin Campbell",
+        "year": 2006
+    },
+    {
+        "title": "Infiltrados",
+        "category": "Thriller y Crimen",
+        "subCategory": "Mafia",
+        "director": "Martin Scorsese",
+        "year": 2006
+    },
+    {
+        "title": "Juego Sucio (Infernal Affairs)",
+        "category": "Thriller y Crimen",
+        "subCategory": "Mafia",
+        "director": "Andrew Lau",
+        "year": 2002
+    },
+    {
+        "title": "Malas Calles",
+        "category": "Thriller y Crimen",
+        "subCategory": "Mafia",
+        "director": "Martin Scorsese",
+        "year": 1973
+    },
+    {
+        "title": "Enemigos Públicos",
+        "category": "Thriller y Crimen",
+        "subCategory": "Mafia",
+        "director": "Michael Mann",
+        "year": 2009
+    },
+    {
+        "title": "L.A. Confidential",
+        "category": "Thriller y Crimen",
+        "subCategory": "Noir",
+        "director": "Curtis Hanson",
+        "year": 1997
+    },
+    {
+        "title": "El precio del poder (Scarface)",
+        "category": "Thriller y Crimen",
+        "subCategory": "Mafia",
+        "director": "Brian De Palma",
+        "year": 1983
+    },
+    {
+        "title": "Traffic",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Steven Soderbergh",
+        "year": 2000
+    },
+    {
+        "title": "Syriana",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Stephen Gaghan",
+        "year": 2005
+    },
+    {
+        "title": "Negocios Ocultos",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Mike Figgis",
+        "year": 1990
+    },
+    {
+        "title": "Cop Land",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "James Mangold",
+        "year": 1997
+    },
+    {
+        "title": "Corrupción en Miami",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "Michael Mann",
+        "year": 2006
+    },
+    {
+        "title": "Mátalos suavemente",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Andrew Dominik",
+        "year": 2012
+    },
+    {
+        "title": "Los amos de Brooklyn",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "Antoine Fuqua",
+        "year": 2009
+    },
+    {
+        "title": "Tropa de Élite",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "José Padilha",
+        "year": 2007
+    },
+    {
+        "title": "Seven",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "David Fincher",
+        "year": 1995
+    },
+    {
+        "title": "El silencio de los corderos",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "Jonathan Demme",
+        "year": 1991
+    },
+    {
+        "title": "Shutter Island",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "Martin Scorsese",
+        "year": 2010
+    },
+    {
+        "title": "Cisne Negro",
+        "category": "Thriller Psicológico",
+        "subCategory": "Drama",
+        "director": "Darren Aronofsky",
+        "year": 2010
+    },
+    {
+        "title": "Memento",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "Christopher Nolan",
+        "year": 2000
+    },
+    {
+        "title": "El Truco Final (The Prestige)",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "Christopher Nolan",
+        "year": 2006
+    },
+    {
+        "title": "Buried (Enterrado)",
+        "category": "Thriller Psicológico",
+        "subCategory": "Drama",
+        "director": "Rodrigo Cortés",
+        "year": 2010
+    },
+    {
+        "title": "Freezer Frame",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "Ben Hopkins",
+        "year": 2004
+    },
+    {
+        "title": "Déjà Vu",
+        "category": "Thriller Psicológico",
+        "subCategory": "Ciencia Ficción",
+        "director": "Tony Scott",
+        "year": 2006
+    },
+    {
+        "title": "La Ola",
+        "category": "Thriller Psicológico",
+        "subCategory": "Drama",
+        "director": "Dennis Gansel",
+        "year": 2008
+    },
+    {
+        "title": "Fargo",
+        "category": "Cine de Autor",
+        "subCategory": "Crimen",
+        "director": "Hermanos Coen",
+        "year": 1996
+    },
+    {
+        "title": "Quemar Después de Leer",
+        "category": "Cine de Autor",
+        "subCategory": "Comedia",
+        "director": "Hermanos Coen",
+        "year": 2008
+    },
+    {
+        "title": "Valor de Ley (True Grit)",
+        "category": "Cine de Autor",
+        "subCategory": "Western",
+        "director": "Hermanos Coen",
+        "year": 2010
+    },
+    {
+        "title": "El Gran Lebowski",
+        "category": "Cine de Autor",
+        "subCategory": "Comedia",
+        "director": "Hermanos Coen",
+        "year": 1998
+    },
+    {
+        "title": "Match Point",
+        "category": "Cine de Autor",
+        "subCategory": "Thriller",
+        "director": "Woody Allen",
+        "year": 2005
+    },
+    {
+        "title": "Balas sobre Broadway",
+        "category": "Cine de Autor",
+        "subCategory": "Comedia",
+        "director": "Woody Allen",
+        "year": 1994
+    },
+    {
+        "title": "Acordes y Desacuerdos",
+        "category": "Cine de Autor",
+        "subCategory": "Comedia",
+        "director": "Woody Allen",
+        "year": 1999
+    },
+    {
+        "title": "The Artist",
+        "category": "Cine de Autor",
+        "subCategory": "Drama",
+        "director": "Michel Hazanavicius",
+        "year": 2011
+    },
+    {
+        "title": "La Cinta Blanca",
+        "category": "Cine de Autor",
+        "subCategory": "Drama",
+        "director": "Michael Haneke",
+        "year": 2009
+    },
+    {
+        "title": "Funny Games",
+        "category": "Cine de Autor",
+        "subCategory": "Terror",
+        "director": "Michael Haneke",
+        "year": 1997
+    },
+    {
+        "title": "Hollywoodland",
+        "category": "Cine de Autor",
+        "subCategory": "Misterio",
+        "director": "Allen Coulter",
+        "year": 2006
+    },
+    {
+        "title": "La Lista de Schindler",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Bélico",
+        "director": "Steven Spielberg",
+        "year": 1993
+    },
+    {
+        "title": "El Niño con el Pijama de Rayas",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Bélico",
+        "director": "Mark Herman",
+        "year": 2008
+    },
+    {
+        "title": "La Vida es Bella",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Bélico",
+        "director": "Roberto Benigni",
+        "year": 1997
+    },
+    {
+        "title": "El Tren de la Vida",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Bélico",
+        "director": "Radu Mih?ileanu",
+        "year": 1998
+    },
+    {
+        "title": "Amadeus",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Milo Forman",
+        "year": 1984
+    },
+    {
+        "title": "Ciudadano Kane",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Clásico",
+        "director": "Orson Welles",
+        "year": 1941
+    },
+    {
+        "title": "Apollo 13",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Aventura",
+        "director": "Ron Howard",
+        "year": 1995
+    },
+    {
+        "title": "K-19: The Widowmaker",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Bélico",
+        "director": "Kathryn Bigelow",
+        "year": 2002
+    },
+    {
+        "title": "La Caza del Octubre Rojo",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Bélico",
+        "director": "John McTiernan",
+        "year": 1990
+    },
+    {
+        "title": "Million Dollar Baby",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Deporte",
+        "director": "Clint Eastwood",
+        "year": 2004
+    },
+    {
+        "title": "Gran Torino",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Drama",
+        "director": "Clint Eastwood",
+        "year": 2008
+    },
+    {
+        "title": "Mar Adentro",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Alejandro Amenábar",
+        "year": 2004
+    },
+    {
+        "title": "La Escafandra y la Mariposa",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Julian Schnabel",
+        "year": 2007
+    },
+    {
+        "title": "Camino",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Drama",
+        "director": "Javier Fesser",
+        "year": 2008
+    },
+    {
+        "title": "Ciudad de Dios",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Crimen",
+        "director": "Fernando Meirelles",
+        "year": 2002
+    },
+    {
+        "title": "Cadena Perpetua",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Drama",
+        "director": "Frank Darabont",
+        "year": 1994
+    },
+    {
+        "title": "Adiós pequeña adiós",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Crimen",
+        "director": "Ben Affleck",
+        "year": 2007
+    },
+    {
+        "title": "No es país para viejos",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Crimen",
+        "director": "Hermanos Coen",
+        "year": 2007
+    },
+    {
+        "title": "Apocalypse Now (Redux)",
+        "category": "Bélico",
+        "subCategory": "Drama",
+        "director": "Francis Ford Coppola",
+        "year": 1979
+    },
+    {
+        "title": "El Cazador",
+        "category": "Bélico",
+        "subCategory": "Drama",
+        "director": "Michael Cimino",
+        "year": 1978
+    },
+    {
+        "title": "Nacido el Cuatro de Julio",
+        "category": "Bélico",
+        "subCategory": "Drama",
+        "director": "Oliver Stone",
+        "year": 1989
+    },
+    {
+        "title": "El Sargento de Hierro",
+        "category": "Bélico",
+        "subCategory": "Acción",
+        "director": "Clint Eastwood",
+        "year": 1986
+    },
+    {
+        "title": "Cuando éramos soldados",
+        "category": "Bélico",
+        "subCategory": "Drama",
+        "director": "Randall Wallace",
+        "year": 2002
+    },
+    {
+        "title": "La delgada línea roja",
+        "category": "Bélico",
+        "subCategory": "Drama",
+        "director": "Terrence Malick",
+        "year": 1998
+    },
+    {
+        "title": "En tierra hostil",
+        "category": "Bélico",
+        "subCategory": "Thriller",
+        "director": "Kathryn Bigelow",
+        "year": 2008
+    },
+    {
+        "title": "Tres Reyes",
+        "category": "Bélico",
+        "subCategory": "Acción",
+        "director": "David O. Russell",
+        "year": 1999
+    },
+    {
+        "title": "El Curioso Caso de Benjamin Button",
+        "category": "Drama",
+        "subCategory": "Fantasía",
+        "director": "David Fincher",
+        "year": 2008
+    },
+    {
+        "title": "The Reader (El Lector)",
+        "category": "Drama",
+        "subCategory": "Romance",
+        "director": "Stephen Daldry",
+        "year": 2008
+    },
+    {
+        "title": "La Duda",
+        "category": "Drama",
+        "subCategory": "Intriga",
+        "director": "John Patrick Shanley",
+        "year": 2008
+    },
+    {
+        "title": "Revolutionary Road",
+        "category": "Drama",
+        "subCategory": "Romance",
+        "director": "Sam Mendes",
+        "year": 2008
+    },
+    {
+        "title": "Expiación: Más allá de la pasión",
+        "category": "Drama",
+        "subCategory": "Romance",
+        "director": "Joe Wright",
+        "year": 2007
+    },
+    {
+        "title": "21 Gramos",
+        "category": "Drama",
+        "subCategory": "Thriller",
+        "director": "Alejandro G. Iñárritu",
+        "year": 2003
+    },
+    {
+        "title": "Babel",
+        "category": "Drama",
+        "subCategory": "Thriller",
+        "director": "Alejandro G. Iñárritu",
+        "year": 2006
+    },
+    {
+        "title": "Crash",
+        "category": "Drama",
+        "subCategory": "Crimen",
+        "director": "Paul Haggis",
+        "year": 2004
+    },
+    {
+        "title": "Hotel Rwanda",
+        "category": "Drama",
+        "subCategory": "Historia",
+        "director": "Terry George",
+        "year": 2004
+    },
+    {
+        "title": "El expreso de medianoche",
+        "category": "Drama",
+        "subCategory": "Crimen",
+        "director": "Alan Parker",
+        "year": 1978
+    },
+    {
+        "title": "El Jardinero Fiel",
+        "category": "Drama",
+        "subCategory": "Thriller",
+        "director": "Fernando Meirelles",
+        "year": 2005
+    },
+    {
+        "title": "El Buen Pastor",
+        "category": "Drama",
+        "subCategory": "Espionaje",
+        "director": "Robert De Niro",
+        "year": 2006
+    },
+    {
+        "title": "La Vida de Pi",
+        "category": "Aventura",
+        "subCategory": "Drama",
+        "director": "Ang Lee",
+        "year": 2012
+    },
+    {
+        "title": "Memorias de África",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "Sydney Pollack",
+        "year": 1985
+    },
+    {
+        "title": "Los Puentes de Madison",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "Clint Eastwood",
+        "year": 1995
+    },
+    {
+        "title": "Thelma & Louise",
+        "category": "Drama",
+        "subCategory": "Aventura",
+        "director": "Ridley Scott",
+        "year": 1991
+    },
+    {
+        "title": "El Río de la Vida",
+        "category": "Drama",
+        "subCategory": "Aventura",
+        "director": "Robert Redford",
+        "year": 1992
+    },
+    {
+        "title": "Lost in Translation",
+        "category": "Drama",
+        "subCategory": "Romance",
+        "director": "Sofia Coppola",
+        "year": 2003
+    },
+    {
+        "title": "Fiebre del Sábado Noche",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "John Badham",
+        "year": 1977
+    },
+    {
+        "title": "Flashdance",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "Adrian Lyne",
+        "year": 1983
+    },
+    {
+        "title": "Mamma Mia!",
+        "category": "Romance y Música",
+        "subCategory": "Musical",
+        "director": "Phyllida Lloyd",
+        "year": 2008
+    },
+    {
+        "title": "Grease",
+        "category": "Romance y Música",
+        "subCategory": "Musical",
+        "director": "Randal Kleiser",
+        "year": 1978
+    },
+    {
+        "title": "Granujas a todo ritmo",
+        "category": "Romance y Música",
+        "subCategory": "Musical",
+        "director": "John Landis",
+        "year": 1980
+    },
+    {
+        "title": "Billy Elliot",
+        "category": "Drama",
+        "subCategory": "Música",
+        "director": "Stephen Daldry",
+        "year": 2000
+    },
+    {
+        "title": "Forrest Gump",
+        "category": "Antología Tom Hanks",
+        "subCategory": "Drama",
+        "director": "Robert Zemeckis",
+        "year": 1994
+    },
+    {
+        "title": "Náufrago",
+        "category": "Antología Tom Hanks",
+        "subCategory": "Drama",
+        "director": "Robert Zemeckis",
+        "year": 2000
+    },
+    {
+        "title": "La Terminal",
+        "category": "Antología Tom Hanks",
+        "subCategory": "Comedia",
+        "director": "Steven Spielberg",
+        "year": 2004
+    },
+    {
+        "title": "Atrápame si puedes",
+        "category": "Antología Tom Hanks",
+        "subCategory": "Drama",
+        "director": "Steven Spielberg",
+        "year": 2002
+    },
+    {
+        "title": "Big",
+        "category": "Antología Tom Hanks",
+        "subCategory": "Comedia",
+        "director": "Penny Marshall",
+        "year": 1988
+    },
+    {
+        "title": "Resacón en Las Vegas",
+        "category": "Comedia",
+        "subCategory": "Humor",
+        "director": "Todd Phillips",
+        "year": 2009
+    },
+    {
+        "title": "Los Padres de Ella",
+        "category": "Comedia",
+        "subCategory": "Humor",
+        "director": "Jay Roach",
+        "year": 2000
+    },
+    {
+        "title": "Los Padres de Él",
+        "category": "Comedia",
+        "subCategory": "Humor",
+        "director": "Jay Roach",
+        "year": 2004
+    },
+    {
+        "title": "2 tontos muy tontos",
+        "category": "Comedia",
+        "subCategory": "Humor",
+        "director": "Peter & Bobby Farrelly",
+        "year": 1994
+    },
+    {
+        "title": "Ratas a la carrera",
+        "category": "Comedia",
+        "subCategory": "Humor",
+        "director": "Jerry Zucker",
+        "year": 2001
+    },
+    {
+        "title": "La cena de los idiotas",
+        "category": "Comedia",
+        "subCategory": "Humor",
+        "director": "Francis Veber",
+        "year": 1998
+    },
+    {
+        "title": "El Diario de Bridget Jones",
+        "category": "Comedia",
+        "subCategory": "Romance",
+        "director": "Sharon Maguire",
+        "year": 2001
+    },
+    {
+        "title": "Poli de guardería",
+        "category": "Comedia",
+        "subCategory": "Acción",
+        "director": "Ivan Reitman",
+        "year": 1990
+    },
+    {
+        "title": "¡Aterriza como puedas!",
+        "category": "Comedia Absurda",
+        "subCategory": "Parodia",
+        "director": "ZAZ",
+        "year": 1980
+    },
+    {
+        "title": "¡Agarralo como puedas!",
+        "category": "Comedia Absurda",
+        "subCategory": "Parodia",
+        "director": "David Zucker",
+        "year": 1988
+    },
+    {
+        "title": "El Jovencito Frankenstein",
+        "category": "Comedia Absurda",
+        "subCategory": "Parodia",
+        "director": "Mel Brooks",
+        "year": 1974
+    },
+    {
+        "title": "Loca Academia de Policía",
+        "category": "Comedia Absurda",
+        "subCategory": "Parodia",
+        "director": "Hugh Wilson",
+        "year": 1984
+    },
+    {
+        "title": "Bitelchús (Beetlejuice)",
+        "category": "Comedia Absurda",
+        "subCategory": "Fantasía",
+        "director": "Tim Burton",
+        "year": 1988
+    },
+    {
+        "title": "Crimen Ferpecto",
+        "category": "Comedia Absurda",
+        "subCategory": "Humor Negro",
+        "director": "Álex de la Iglesia",
+        "year": 2004
+    },
+    {
+        "title": "Cómo ser John Malkovich",
+        "category": "Comedia Absurda",
+        "subCategory": "Fantasía",
+        "director": "Spike Jonze",
+        "year": 1999
+    },
+    {
+        "title": "Saw",
+        "category": "Terror y Horror",
+        "subCategory": "Gore",
+        "director": "James Wan",
+        "year": 2004
+    },
+    {
+        "title": "Saw II",
+        "category": "Terror y Horror",
+        "subCategory": "Gore",
+        "director": "Darren Lynn Bousman",
+        "year": 2005
+    },
+    {
+        "title": "Saw III",
+        "category": "Terror y Horror",
+        "subCategory": "Gore",
+        "director": "Darren Lynn Bousman",
+        "year": 2006
+    },
+    {
+        "title": "Hostel",
+        "category": "Terror y Horror",
+        "subCategory": "Gore",
+        "director": "Eli Roth",
+        "year": 2005
+    },
+    {
+        "title": "El Orfanato",
+        "category": "Terror y Horror",
+        "subCategory": "Misterio",
+        "director": "J.A. Bayona",
+        "year": 2007
+    },
+    {
+        "title": "Frágiles",
+        "category": "Terror y Horror",
+        "subCategory": "Misterio",
+        "director": "Jaume Balagueró",
+        "year": 2005
+    },
+    {
+        "title": "The Ring (El Círculo)",
+        "category": "Terror y Horror",
+        "subCategory": "Misterio",
+        "director": "Gore Verbinski",
+        "year": 2002
+    },
+    {
+        "title": "El Grito",
+        "category": "Terror y Horror",
+        "subCategory": "Misterio",
+        "director": "Takashi Shimizu",
+        "year": 2004
+    },
+    {
+        "title": "30 Días de Oscuridad",
+        "category": "Terror y Horror",
+        "subCategory": "Vampiros",
+        "director": "David Slade",
+        "year": 2007
+    },
+    {
+        "title": "Pesadilla en Elm Street",
+        "category": "Terror y Horror",
+        "subCategory": "Slasher",
+        "director": "Wes Craven",
+        "year": 1984
+    },
+    {
+        "title": "Se lo que hicisteis el último verano",
+        "category": "Terror y Horror",
+        "subCategory": "Slasher",
+        "director": "Jim Gillespie",
+        "year": 1997
+    },
+    {
+        "title": "Lo que la verdad esconde",
+        "category": "Terror y Horror",
+        "subCategory": "Thriller",
+        "director": "Robert Zemeckis",
+        "year": 2000
+    },
+    {
+        "title": "Premonition: 7 Días",
+        "category": "Terror y Horror",
+        "subCategory": "Thriller",
+        "director": "Mennan Yapo",
+        "year": 2007
+    },
+    {
+        "title": "El Laberinto del Fauno",
+        "category": "Fantasía y Romance",
+        "subCategory": "Drama",
+        "director": "Guillermo del Toro",
+        "year": 2006
+    },
+    {
+        "title": "Drácula de Bram Stoker",
+        "category": "Fantasía y Romance",
+        "subCategory": "Terror",
+        "director": "Francis Ford Coppola",
+        "year": 1992
+    },
+    {
+        "title": "El Perfume",
+        "category": "Fantasía y Romance",
+        "subCategory": "Thriller",
+        "director": "Tom Tykwer",
+        "year": 2006
+    },
+    {
+        "title": "Big Fish",
+        "category": "Fantasía y Romance",
+        "subCategory": "Drama",
+        "director": "Tim Burton",
+        "year": 2003
+    },
+    {
+        "title": "Stardust",
+        "category": "Fantasía y Romance",
+        "subCategory": "Aventura",
+        "director": "Matthew Vaughn",
+        "year": 2007
+    },
+    {
+        "title": "Hugo",
+        "category": "Fantasía y Romance",
+        "subCategory": "Aventura",
+        "director": "Martin Scorsese",
+        "year": 2011
+    },
+    {
+        "title": "Ghost",
+        "category": "Fantasía y Romance",
+        "subCategory": "Drama",
+        "director": "Jerry Zucker",
+        "year": 1990
+    },
+    {
+        "title": "Amélie",
+        "category": "Fantasía y Romance",
+        "subCategory": "Comedia",
+        "director": "Jean-Pierre Jeunet",
+        "year": 2001
+    },
+    {
+        "title": "Posdata: Te quiero",
+        "category": "Fantasía y Romance",
+        "subCategory": "Drama",
+        "director": "Richard LaGravenese",
+        "year": 2007
+    },
+    {
+        "title": "¡Olvídate de mí!",
+        "category": "Fantasía y Romance",
+        "subCategory": "Drama",
+        "director": "Michel Gondry",
+        "year": 2004
+    },
+    {
+        "title": "Siempre a tu lado (Hachiko)",
+        "category": "Fantasía y Romance",
+        "subCategory": "Drama",
+        "director": "Lasse Hallström",
+        "year": 2009
+    },
+    {
+        "title": "District 9",
+        "category": "Drama Distópico",
+        "subCategory": "Ciencia Ficción",
+        "director": "Neill Blomkamp",
+        "year": 2009
+    },
+    {
+        "title": "The Road (La Carretera)",
+        "category": "Drama Distópico",
+        "subCategory": "Drama",
+        "director": "John Hillcoat",
+        "year": 2009
+    },
+    {
+        "title": "Hijos de los Hombres",
+        "category": "Drama Distópico",
+        "subCategory": "Ciencia Ficción",
+        "director": "Alfonso Cuarón",
+        "year": 2006
+    },
+    {
+        "title": "El Viaje de Chihiro",
+        "category": "Animación y Anime",
+        "subCategory": "Fantasía",
+        "director": "Hayao Miyazaki",
+        "year": 2001
+    },
+    {
+        "title": "Akira",
+        "category": "Animación y Anime",
+        "subCategory": "Ciencia Ficción",
+        "director": "Katsuhiro Otomo",
+        "year": 1988
+    },
+    {
+        "title": "Ghost in the Shell",
+        "category": "Animación y Anime",
+        "subCategory": "Ciencia Ficción",
+        "director": "Mamoru Oshii",
+        "year": 1995
+    },
+    {
+        "title": "Cowboy Bebop: La Película",
+        "category": "Animación y Anime",
+        "subCategory": "Ciencia Ficción",
+        "director": "Shinichiro Watanabe",
+        "year": 2001
+    },
+    {
+        "title": "Persepolis",
+        "category": "Animación y Anime",
+        "subCategory": "Drama",
+        "director": "Marjane Satrapi",
+        "year": 2007
+    },
+    {
+        "title": "Animatrix",
+        "category": "Animación y Anime",
+        "subCategory": "Ciencia Ficción",
+        "director": "Varios",
+        "year": 2003
+    },
+    {
+        "title": "El show de Truman",
+        "category": "Otros",
+        "subCategory": "Drama",
+        "director": "Peter Weir",
+        "year": 1998
+    },
+    {
+        "title": "El Último Gran Héroe",
+        "category": "Otros",
+        "subCategory": "Acción",
+        "director": "John McTiernan",
+        "year": 1993
+    },
+    {
+        "title": "La hora de la araña",
+        "category": "Thriller Psicológico",
+        "subCategory": "Misterio",
+        "director": "Lee Tamahori",
+        "year": 2001
+    },
+    {
+        "title": "Plan Oculto",
+        "category": "Thriller y Crimen",
+        "subCategory": "Robos",
+        "director": "Spike Lee",
+        "year": 2006
+    },
+    {
+        "title": "La intérprete",
+        "category": "Thriller y Crimen",
+        "subCategory": "Suspense",
+        "director": "Sydney Pollack",
+        "year": 2005
+    },
+    {
+        "title": "Hostage",
+        "category": "Thriller y Crimen",
+        "subCategory": "Acción",
+        "director": "Florent-Emilio Siri",
+        "year": 2005
+    },
+    {
+        "title": "El Topo",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Tomas Alfredson",
+        "year": 2011
+    },
+    {
+        "title": "Munich",
+        "category": "Thriller y Crimen",
+        "subCategory": "Espionaje",
+        "director": "Steven Spielberg",
+        "year": 2005
+    },
+    {
+        "title": "Erin Brockovich",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Steven Soderbergh",
+        "year": 2000
+    },
+    {
+        "title": "La Vida en Rosa",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Olivier Dahan",
+        "year": 2007
+    },
+    {
+        "title": "La Dama de Hierro",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Phyllida Lloyd",
+        "year": 2011
+    },
+    {
+        "title": "El Aviador",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Martin Scorsese",
+        "year": 2004
+    },
+    {
+        "title": "Mi semana con Marilyn",
+        "category": "Drama y Hechos Reales",
+        "subCategory": "Biografía",
+        "director": "Simon Curtis",
+        "year": 2011
+    },
+    {
+        "title": "Karate Kid",
+        "category": "Drama",
+        "subCategory": "Acción",
+        "director": "John G. Avildsen",
+        "year": 1984
+    },
+    {
+        "title": "El Luchador",
+        "category": "Drama",
+        "subCategory": "Deporte",
+        "director": "Darren Aronofsky",
+        "year": 2008
+    },
+    {
+        "title": "Rounders",
+        "category": "Drama",
+        "subCategory": "Thriller",
+        "director": "John Dahl",
+        "year": 1998
+    },
+    {
+        "title": "Carros de Fuego",
+        "category": "Drama",
+        "subCategory": "Deporte",
+        "director": "Hugh Hudson",
+        "year": 1981
+    },
+    {
+        "title": "Precious",
+        "category": "Drama",
+        "subCategory": "Social",
+        "director": "Lee Daniels",
+        "year": 2009
+    },
+    {
+        "title": "Paseando a Miss Daisy",
+        "category": "Drama",
+        "subCategory": "Comedia",
+        "director": "Bruce Beresford",
+        "year": 1989
+    },
+    {
+        "title": "Emma",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "Douglas McGrath",
+        "year": 1996
+    },
+    {
+        "title": "Shakespeare in Love",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "John Madden",
+        "year": 1998
+    },
+    {
+        "title": "Memorias de una Geisha",
+        "category": "Romance y Música",
+        "subCategory": "Drama",
+        "director": "Rob Marshall",
+        "year": 2005
+    },
+    {
+        "title": "El Imperio del Sol",
+        "category": "Drama",
+        "subCategory": "Bélico",
+        "director": "Steven Spielberg",
+        "year": 1987
+    },
+    {
+        "title": "Atando Cabos",
+        "category": "Drama",
+        "subCategory": "Romance",
+        "director": "Lasse Hallström",
+        "year": 2001
+    },
+    {
+        "title": "Vidocq",
+        "category": "Thriller y Crimen",
+        "subCategory": "Fantasía",
+        "director": "Pitof",
+        "year": 2001
+    },
+    {
+        "title": "La Verdad Oculta",
+        "category": "Drama",
+        "subCategory": "Misterio",
+        "director": "John Madden",
+        "year": 2005
+    },
+    {
+        "title": "Confianza (Trust)",
+        "category": "Drama",
+        "subCategory": "Thriller",
+        "director": "Hal Hartley",
+        "year": 1990
+    },
+    {
+        "title": "Los Descendientes",
+        "category": "Drama",
+        "subCategory": "Comedia",
+        "director": "Alexander Payne",
+        "year": 2011
+    },
+    {
+        "title": "El Novio de mi Madre",
+        "category": "Comedia",
+        "subCategory": "Romance",
+        "director": "Amy Heckerling",
+        "year": 2007
+    },
+    {
+        "title": "La Costa de los Mosquitos",
+        "category": "Drama",
+        "subCategory": "Aventura",
+        "director": "Peter Weir",
+        "year": 1986
+    },
+    {
+        "title": "Criaturas Celestiales",
+        "category": "Drama",
+        "subCategory": "Crimen",
+        "director": "Peter Jackson",
+        "year": 1994
+    },
+    {
+        "title": "Margin Call",
+        "category": "Thriller y Crimen",
+        "subCategory": "Drama",
+        "director": "J.C. Chandor",
+        "year": 2011
+    },
+    {
+        "title": "Up in the Air",
+        "category": "Drama",
+        "subCategory": "Comedia",
+        "director": "Jason Reitman",
+        "year": 2009
+    }
+]
