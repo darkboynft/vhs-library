@@ -12173,7 +12173,7 @@ const Td = [{
         director: "Tim Burton",
         year: 2007,
         cast: ["Johnny Depp", "Helena Bonham Carter", "Alan Rickman"],
-        poster: "./posters/sweeney_toddsweeney_todd.webp",
+        poster: "./posters/sweeney_todd.webp",
     }, {
         title: "Tras el corazón verde",
         category: "Aventuras",
